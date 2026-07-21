@@ -1,0 +1,15 @@
+# データ・成果物
+for_M1/
+*.png
+diversity/
+
+# Python環境
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
